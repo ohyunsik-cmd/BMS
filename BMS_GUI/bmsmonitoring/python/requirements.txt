@@ -1,0 +1,27 @@
+# CAN 통신 라이브러리
+python-can>=4.2.0
+
+# WebSocket 클라이언트
+websockets>=11.0.3
+
+# 시리얼 통신 (USB-CAN 인터페이스용)
+pyserial>=3.5
+
+# 로깅 및 설정 관리
+colorlog>=6.7.0
+
+# 데이터 검증
+pydantic>=2.4.0
+
+# 비동기 처리
+asyncio-mqtt>=0.13.0
+
+# 개발 도구
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Windows용 CAN 인터페이스 (선택사항)
+# python-can[pcan]>=4.2.0  # PEAK CAN 사용시
+# python-can[gs_usb]>=4.2.0  # Geschwister Schneider USB-CAN 사용시
