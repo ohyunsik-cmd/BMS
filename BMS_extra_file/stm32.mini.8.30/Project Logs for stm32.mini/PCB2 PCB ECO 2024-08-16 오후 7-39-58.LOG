@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C2-2
+Removed Member From Class: ClassName=Sheet2 Member=C2
+Added Member To Class: ClassName=Sheet2 Member=Component C5 TPCL105M010R5000

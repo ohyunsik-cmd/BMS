@@ -1,0 +1,5 @@
+Added Component: Designator=C7(CAPC1609X100X15LL20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPCL105M010R5000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Member To Class: ClassName=Sheet2 Member=Component C7 TPCL105M010R5000

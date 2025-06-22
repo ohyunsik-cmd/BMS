@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=J2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-3
+Added Net: Name=NetC5_2
