@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Member From Class: ClassName=Sheet3 Member=J1
+Added Member To Class: ClassName=Sheet3 Member=Component C5 CGA5F4C0G2J561J085AA
+Added Member To Class: ClassName=Sheet3 Member=Component R6 CRCW1206120RFKEA

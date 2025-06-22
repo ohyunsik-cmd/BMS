@@ -1,0 +1,100 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~BMS028B.PrjPcb|ReportField=ProjectFullPath~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942EVM_BoardFiles\BQ76942EVM_Altium\BMS028B.PrjPcb|ReportField=Title~BOM (TI Designs format) For Variant [001] of Project [BMS028B.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~3:36:37 PM|ReportField=ReportDate~9/22/2020|ReportField=ReportDateTime~9/22/2020 3:36:37 PM|ReportField=OutputName~BOM (TI Designs format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=TotalQuantity~230|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=EVM_Orderable~BQ76942EVM|ReportField=CopyrightYear~|ReportField=PCB_Layout~|ReportField=PCB_Rev~B|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~|ReportField=PRJ_Number~BMS028|ReportField=PRJ_Title~BQ76942EVM|ReportField=SCH_Rev~B|ReportField=TechSupport~|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~9/22/2020|ReportField=CurrentTime~3:31:50 PM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942EVM_BoardFiles\BQ76942EVM_Altium\BMS028B_FETs.SchDoc|ReportField=DocumentName~BMS028B_FETs.SchDoc|ReportField=DocumentNumber~3|ReportField=DrawnBy~M Sunna|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~9/22/2020|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~BMS028B.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~3|ReportField=SheetTotal~5|ReportField=Time~Not shown in title block|ReportField=Title~FETs|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~BMS028B.PrjPcb|ReportField=DataSourceFullPath~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942EVM_BoardFiles\BQ76942EVM_Altium\BMS028B.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Fitted|Printed Circuit Board|!PCB1|BMS028|1|Any||
+2|Fitted|CAP, CERM, 1 uF, 100 V, +/- 10%, X7R, 1206|C1, C57|C3216X7R2A105K160AA|2|TDK|1206|1uF
+3|Fitted|CAP, CERM, 100 pF, 100 V, +/- 5%, C0G/NP0, AEC-Q200 Grade 1, 0603|C2|GCM1885C2A101JA16D|1|MuRata|0603|100pF
+4|Fitted|CAP, CERM, 0.47 uF, 25 V, +/- 10%, X7R, AEC-Q200 Grade 1, 0805|C3|GCM219R71E474KA55D|1|MuRata|0805|0.47uF
+5|Fitted|CAP, CERM, 0.22 uF, 50 V, +/- 10%, X7R, 0603|C4, C5, C6, C7, C8, C9, C12, C14, C15, C16, C18|C1608X7R1H224K080AB|11|TDK|0603|0.22uF
+6|Fitted|CAP, CERM, 1 uF, 16 V, +/- 10%, X7R, 0805|C10, C13|EMK212B7105KG-T|2|Taiyo Yuden|0805|1uF
+7|Fitted|CAP, CERM, 0.022 uF, 16 V, +/- 10%, X7R, 0603|C11|C0603C223K4RACTU|1|Kemet|0603|0.022uF
+8|Fitted|CAP, CERM, 0.01 uF, 16 V, +/- 10%, X7R, 0603|C17|885012206040|1|Wurth Elektronik|0603|0.01uF
+9|Fitted|CAP, CERM, 2.2 uF, 16 V, +/- 10%, X7R, 0805|C19|EMK212B7225KG-T|1|Taiyo Yuden|0805|2.2uF
+10|Fitted|CAP, CERM, 100 pF, 50 V, +/- 5%, C0G/NP0, 0603|C21|C0603C101J5GACTU|1|Kemet|0603|100pF
+11|Fitted|CAP, CERM, 0.1 uF, 50 V, +/- 10%, X7R, 0603|C22, C25, C26, C27, C28, C30, C34, C36, C38, C39, C40, C41, C42, C43|885012206095|14|Wurth Elektronik|0603|0.1uF
+12|Fitted|CAP, CERM, 0.1 uF, 100 V,+/- 10%, X7R, AEC-Q200 Grade 1, 0603|C32, C33, C35, C37|GCJ188R72A104KA01D|4|MuRata|0603|0.1uF
+13|Fitted|CAP, CERM, 0.1 uF, 16 V, +/- 10%, X7R, 0402|C44, C45, C46, C48, C51, C52, C54|885012205037|7|Wurth Elektronik|0402|0.1uF
+14|Fitted|CAP, CERM, 0.47 uF, 6.3 V, +/- 10%, X5R, 0402|C47, C53, C55|04026D474KAT2A|3|AVX|0402|0.47uF
+15|Fitted|CAP, CERM, 10 µF, 16 V,+/- 10%, X5R, 0805|C49, C50|CL21A106KOQNNNG|2|Samsung Electro-Mechanics|0805|10uF
+16|Fitted|CAP, CERM, 2200 pF, 10 V, +/- 10%, X7R, 0402|C56|885012205008|1|Wurth Elektronik|0402|2200pF
+17|Fitted|Diode, Schottky, 100 V, 0.15 A, SOD-123|D1, D2, D10|BAT46W-7-F|3|Diodes Inc.|SOD-123|100V
+18|Fitted|LED, Red, SMD|D3|150060RS75000|1|Wurth Elektronik|LED_0603|Red
+19|Fitted|Diode, Zener, 16 V, 500 mW, SOD-123|D4, D5, D6|MMSZ5246B-7-F|3|Diodes Inc.|SOD-123|16V
+20|Fitted|Diode, Schottky, 40 V, 0.2 A, SOT-323|D7|BAS40W-7-F|1|Diodes Inc.|SOT-323|40V
+21|Fitted|Diode, Ultrafast, 100 V, 0.15 A, SOD-123|D8|1N4148W-7-F|1|Diodes Inc.|SOD-123|100V
+22|Fitted|Diode, Zener, 10 V, 500 mW, SOD-123|D9|MMSZ4697T1G|1|ON Semiconductor|SOD-123|10V
+23|Fitted|LED, Green, SMD|D14, D15, D16|150060VS75000|3|Wurth Elektronik|LED_0603|Green
+24|Fitted|Bumpon, Hemisphere, 0.44 X 0.20, Clear|H1, H2, H3, H4|SJ-5303 (CLEAR)|4|3M|Transparent Bumpon|
+25|Fitted|TERM BLOCK 3.5MM VERT 5POS PCB|J1|OSTTE050161|1|On Shore Technology|HDR5|
+26|Fitted|Header, 2.54mm, 5x1, Tin, TH|J2, J18|PEC05SAAN|2|Sullins Connector Solutions|Header, 2.54mm, 5x1, TH|
+27|Fitted|TERM BLOCK 3.5MM VERT 6POS PCB|J3|OSTTE060161|1|On Shore Technology|HDR6|
+28|Fitted|Header, 100mil, 6x1, Tin, TH|J4|PEC06SAAN|1|Sullins Connector Solutions|TH, 6-Leads, Body 608x100mil, Pitch 100mil|
+29|Fitted|Header, 2.54mm, 3x1, Gold, SMT|J5, J6, J8, J10, J12, J15|87898-0304|6|Molex|Header, 2.54mm, 3x1, SMT|
+30|Fitted|Header, 100mil, 2x1, Tin, TH|J7, J9, J11, J14, J16, J17|PEC02SAAN|6|Sullins Connector Solutions|Header, 2 PIN, 100mil, Tin|
+31|Fitted|Header (friction lock), 100mil, 4x1, R/A, TH|J13|22/05/3041|1|Molex|4x1 R/A Header|
+32|Fitted|Header, 2.54mm, 10x2, Tin, TH|J19|PEC10DAAN|1|Sullins Connector Solutions|Header, 10x2, 2.54mm, TH|
+33|Fitted|TERM BLOCK 3.5MM VERT 4POS PCB|J21|OSTTE040161|1|On Shore Technology|HDR4|
+34|Fitted|Receptacle, Micro-USB Type B, 0.65 mm, 5x1, R/A, Bottom Mount SMT|J24|47346-1001|1|Molex|Receptacle, 0.65mm, 5x1, R/A, SMT|
+35|Fitted|Header, 2.54 mm, 2x1, Gold, TH|J25|61300211121|1|Wurth Elektronik|Header, 2.54mm, 2x1, TH|
+36|Fitted|Header, 2.54mm, 4x1, Tin, TH|J27|22284043|1|Molex|Header, 2.54mm, 4x1, TH|
+37|Fitted|Transistor, NPN, 150 V, 1 A, AEC-Q101, SOT-89|Q1|FCX495TA|1|Diodes Inc.|SOT-89|150 V
+38|Fitted|Transistor, PNP, 80 V, 0.5 A, SOT-23|Q4|MMBTA56LT1G|1|ON Semiconductor|SOT-23|80 V
+39|Fitted|MOSFET, P-CH, -100 V, -0.6 A, SOT-23|Q5, Q6|ZXMP10A13FTA|2|Diodes Inc.|SOT-23|-100V
+40|Fitted|MOSFET, N-CH, 100 V, 17 A, DNK0008A (VSON-CLIP-8)|Q8, Q9|CSD19532Q5B|2|Texas Instruments|DNK0008A|100V
+41|Fitted|MOSFET, N-CH, 60 V, 0.31 A, SOT-323|Q10|2N7002KW|1|Fairchild Semiconductor|SOT-323|60V
+42|Fitted|MOSFET, N-CH, 100 V, 1.9 A, SOT-23|Q11|PMV213SN,215|1|Nexperia|SOT-23|100V
+43|Fitted|RES, 100, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R1, R21, R22, R41, R57|CRCW0603100RJNEA|5|Vishay-Dale|0603|100
+44|Fitted|RES, 20.0, 1%, 0.25 W, AEC-Q200 Grade 0, 1206|R2, R5, R6, R9, R10, R11, R12, R14, R15, R16, R17|CRCW120620R0FKEA|11|Vishay-Dale|1206|20.0
+45|Fitted|RES, 150, 5%, 1 W, AEC-Q200 Grade 0, 2512|R3, R7|CRCW2512150RJNEG|2|Vishay-Dale|2512|150
+46|Fitted|RES, 10 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R18, R19, R23, R25, R27, R28, R29, R31, R67, R85, R86, R87|CRCW060310K0JNEA|12|Vishay-Dale|0603|10k
+47|Fitted|RES, 100 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R20, R26|CRCW0603100KJNEA|2|Vishay-Dale|0603|100k
+48|Fitted|RES, 0.001, 1%, 1 W, 1210|R24|PMR25HZPFV1L00|1|Rohm|1210|0.001
+49|Fitted|RES, 200, 1%, 0.25 W, AEC-Q200 Grade 0, 1206|R30, R32, R33, R34, R35, R36, R37, R38, R39, R40|CRCW1206200RFKEA|10|Vishay-Dale|1206|200
+50|Fitted|RES, 1.0 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R42, R43, R45, R47, R48, R62, R64, R68, R69, R71|CRCW06031K00JNEA|10|Vishay-Dale|0603|1.0k
+51|Fitted|RES, 20 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R49, R75|CRCW060320K0JNEA|2|Vishay-Dale|0603|20k
+52|Fitted|RES, 3.9 k, 5%, 1 W, AEC-Q200 Grade 0, 2512|R50, R51|CRCW25123K90JNEG|2|Vishay-Dale|2512|3.9k
+53|Fitted|RES, 10 M, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R52, R53, R59, R60, R61|CRCW060310M0JNEA|5|Vishay-Dale|0603|10Meg
+54|Fitted|RES, 36 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R54|CRCW060336K0JNEA|1|Vishay-Dale|0603|36k
+55|Fitted|RES, 3.9 k, 5%, 0.25 W, AEC-Q200 Grade 0, 1206|R55, R58|CRCW12063K90JNEA|2|Vishay-Dale|1206|3.9k
+56|Fitted|RES, 5.1 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R63, R70, R72, R73, R74|CRCW06035K10JNEA|5|Vishay-Dale|0603|5.1k
+57|Fitted|RES, 0, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R66, R88, R89|CRCW06030000Z0EA|3|Vishay-Dale|0603|0
+58|Fitted|RES, 5.1 k, 5%, 0.25 W, AEC-Q200 Grade 0, 1206|R76, R78, R81, R82, R83, R84|CRCW12065K10JNEA|6|Vishay-Dale|1206|5.1k
+59|Fitted|RES, 7.5 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R77|CRCW06037K50JNEA|1|Vishay-Dale|0603|7.5k
+60|Fitted|RES, 33, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R90, R91|CRCW040233R0JNED|2|Vishay-Dale|0402|33
+61|Fitted|RES, 2.0 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R92|CRCW04022K00JNED|1|Vishay-Dale|0402|2.0k
+62|Fitted|RES, 10 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R93, R99|CRCW040210K0JNED|2|Vishay-Dale|0402|10k
+63|Fitted|RES, 1.0 M, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R94, R95|CRCW04021M00JNED|2|Vishay-Dale|0402|1.0Meg
+64|Fitted|RES, 330, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R96, R97, R98|ERJ-2RKF3300X|3|Panasonic|0402|330
+65|Fitted|Thermistor NTC, 10.0k ohm, 1%, Disc, 5x8.4 mm|RT1, RT2|103AT-2|2|SEMITEC Corporation|Disc, 5x8.4 mm|10k
+66|Fitted|Switch, Tactile, SPST-NO, SMT|S1, S2|KST221JLFS|2|C&K Components|Switch, 6.2X5X6.2 mm|
+67|Fitted|Switch, SPST-NO,  Off-Mom, 0.05A, 12VDC, SMD|S3|PTS820 J20M SMTR LFS|1|C&K Components|3.9x2.9mm|
+68|Fitted|Shunt, 100mil, Gold plated, Black|SH-J1, SH-J2, SH-J3, SH-J4, SH-J5, SH-J6, SH-J7, SH-J8, SH-J9, SH-J10, SH-J11, SH-J12, SH-J13, SH-J14, SH-J15|SNT-100-BK-G|15|Samtec|Shunt|1x2
+69|Fitted|Test Point, Compact, Black, TH|TP14, TP15, TP16, TP17|5006|4|Keystone|Black Compact Testpoint|
+70|Fitted|Multicell Battery Monitor and Protection Family, PFB0048A (TQFP-48)|U1|BQ76942PFBR|1|Texas Instruments|PFB0048A|
+71|Fitted|Single-Channel ESD in 0402 Package With 10pF Capacitance and 6V Breakdown, DPY0002A (X1SON-2)|U2, U3, U4, U5|TPD1E10B06DPYR|4|Texas Instruments|DPY0002A|
+72|Fitted|Family 2-5S Overvoltage Protector with Internal Delay Timer, DPJ0008A (WSON-8)|U6, U7|BQ771807DPJR|2|Texas Instruments|DPJ0008A|
+73|Fitted|Dual-Bit Dual Supply Transceiver with Configurable Voltage Translation and 3-State Outputs, DCT0008A, LARGE T&R|U8|SN74LVC2T45DCTR|1|Texas Instruments|DCT0008A|
+74|Fitted|25 MHz Mixed Signal Microcontroller with 128 KB Flash, 8192 B SRAM and 63 GPIOs, -40 to 85 degC, 80-pin QFP (PN), Green (RoHS & no Sb/Br)|U9|MSP430F5529IPN|1|Texas Instruments|PN0080A|
+75|Fitted|Single-Channel ESD in 0402 Package With 10pF Capacitance and 6V Breakdown, DPY0002A (X1SON-2)|U10, U11, U13, U14|TPD1E10B06DPYT|4|Texas Instruments|DPY0002A|
+76|Fitted|Single Output LDO, 150 mA, Fixed 3.3 V Output, 2.7 to 10 V Input, with Low IQ, 5-pin SOT-23 (DBV), -40 to 125 degC, Green (RoHS & no Sb/Br)|U12|TPS76333DBVR|1|Texas Instruments|DBV0005A|
+77|Fitted|Resonator, 4 MHz, 39 pF, AEC-Q200 Grade 1, SMD|Y1|CSTCR4M00G55B-R0|1|MuRata|4.5x1.2x2 mm|
+78|Not Fitted|CAP, CERM, 0.01 uF, 16 V, +/- 10%, X7R, 0603|C20|885012206040|0|Wurth Elektronik|0603|0.01uF
+79|Not Fitted|CAP, CERM, 0.1 uF, 100 V,+/- 10%, X7R, AEC-Q200 Grade 1, 0603|C23, C24, C29, C31|GCJ188R72A104KA01D|0|MuRata|0603|0.1uF
+80|Not Fitted|Diode, Schottky, 100 V, 0.15 A, SOD-123|D11, D12, D13|BAT46W-7-F|0|Diodes Inc.|SOD-123|100V
+81|Not Fitted|Fuse, 30 A, 62 VDC, SMD|F1|SFK-3030|0|Dexerials Corporation|9.5x2x5mm|
+82|Not Fitted|Fiducial mark.  There is nothing to buy or mount.|FID1, FID2, FID3, FID4, FID5, FID6|N/A|0|N/A|N/A|
+83|Not Fitted|Terminal Block, 3.5mm Pitch, 2x1, TH|J20|ED555/2DS|0|On-Shore Technology|7.0x8.2x6.5mm|
+84|Not Fitted|Header, 2.54 mm, 7x1, Gold, TH|J22|PBC07SAAN|0|Sullins Connector Solutions|Header, 2.54 mm, 7x1, TH|
+85|Not Fitted|Header, 2.54 mm, 11x1, Gold, TH|J23|PBC11SAAN|0|Sullins Connector Solutions|Header, 2.54 mm, 11x1, TH|
+86|Not Fitted|Header, 2.54mm, 5x1, Tin, TH|J26|PEC05SAAN|0|Sullins Connector Solutions|Header, 2.54mm, 5x1, TH|
+87|Not Fitted|MOSFET, P-CH, -100 V, -0.6 A, SOT-23|Q2|ZXMP10A13FTA|0|Diodes Inc.|SOT-23|-100V
+88|Not Fitted|MOSFET, N-CH, 100 V, 10 A, DQJ0008A (VSONP-8)|Q3|CSD19534Q5A|0|Texas Instruments|DQJ0008A|100V
+89|Not Fitted|MOSFET, N-CH, 100 V, 17 A, DNK0008A (VSON-CLIP-8)|Q7|CSD19532Q5B|0|Texas Instruments|DNK0008A|100V
+90|Not Fitted|RES, 150, 5%, 1 W, AEC-Q200 Grade 0, 2512|R4, R8|CRCW2512150RJNEG|0|Vishay-Dale|2512|150
+91|Not Fitted|RES, 0, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R13|CRCW06030000Z0EA|0|Vishay-Dale|0603|0
+92|Not Fitted|RES, 4.7 k, 5%, 1 W, AEC-Q200 Grade 0, 2512|R44|CRCW25124K70JNEG|0|Vishay-Dale|2512|4.7k
+93|Not Fitted|RES, 10 M, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R46|CRCW060310M0JNEA|0|Vishay-Dale|0603|10Meg
+94|Not Fitted|RES, 0, 5%, 2 W, 2512 WIDE|R56|RCL12250000Z0EG|0|Vishay Draloric|2512 WIDE|0
+95|Not Fitted|RES, 51, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R65|CRCW060351R0JNEA|0|Vishay-Dale|0603|51
+96|Not Fitted|RES, 5.1 k, 5%, 0.25 W, AEC-Q200 Grade 0, 1206|R79, R80|CRCW12065K10JNEA|0|Vishay-Dale|1206|5.1k
+97|Not Fitted|Test Point, Multipurpose, Red, TH|TP1|5010|0|Keystone|Red Multipurpose Testpoint|
+98|Not Fitted|Test Point, Multipurpose, Black, TH|TP8|5011|0|Keystone|Black Multipurpose Testpoint|
+99|Not Fitted|Test Point, Compact, Red, TH|TP43, TP44|5005|0|Keystone|Red Compact Testpoint|Red

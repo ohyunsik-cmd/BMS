@@ -1,0 +1,11 @@
+Added Component: Designator=R43(RESC2512(6432)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP11_1 Pin=R43-1
+Added Pin To Net: NetName=PGND Pin=R43-2
+Added Member To Class: ClassName=Sheet1 Member=Component R29 CRCW120620R0JNEA
+Added Member To Class: ClassName=Sheet1 Member=Component R43 Jumper 2512(6432)

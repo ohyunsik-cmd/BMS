@@ -1,0 +1,48 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|Field=Alternate Manufacturer~String~Alternate Manufacturer~100|Field=Alternate PartNumber~String~Alternate PartNumber~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~PR2387.PrjPcb|ReportField=ProjectFullPath~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942_2Layer_TestBoard\PR2387.PrjPcb|ReportField=Title~BMS023A_BOM (EVM format) For Variant [001] of Project [PR2387.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~3:43:39 PM|ReportField=ReportDate~9/22/2020|ReportField=ReportDateTime~9/22/2020 3:43:39 PM|ReportField=OutputName~BMS023A_BOM (EVM format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=TotalQuantity~95|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=EVM_Orderable~BQ76942IEC-ESD|ReportField=PCB_Layout~|ReportField=PCB_Rev~A|ReportField=PRJ_Customer~Test Board|ReportField=PRJ_Engineer~|ReportField=PRJ_Title~BQ76942 7S 2-layer Test Board|ReportField=SCH_Rev~A|ReportField=TechSupport~|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~9/22/2020|ReportField=CurrentTime~3:43:08 PM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942_2Layer_TestBoard\PR2387_FETs.SchDoc|ReportField=DocumentName~PR2387_FETs.SchDoc|ReportField=DocumentNumber~2|ReportField=DrawnBy~M Sunna|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~9/22/2020|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~PR2387.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~3|ReportField=Time~Not shown in title block|ReportField=Title~FETs|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~PR2387.PrjPcb|ReportField=DataSourceFullPath~C:\Users\a0868763\TI Drive\BMS\MAXIMO2\Schematics\BoardFilesForWeb\sluc688\BQ76942_2Layer_TestBoard\PR2387.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Fitted|CAP, CERM, 1 uF, 100 V, +/- 10%, X7R, 1206|C1, C23|C3216X7R2A105K160AA|2|TDK|1206|1uF||
+2|Fitted|CAP, CERM, 100 pF, 100 V, +/- 5%, C0G/NP0, AEC-Q200 Grade 1, 0603|C2|GCM1885C2A101JA16D|1|MuRata|0603|100pF||
+3|Fitted|CAP, CERM, 0.47 uF, 25 V, +/- 10%, X7R, AEC-Q200 Grade 1, 0805|C3|GCM219R71E474KA55D|1|MuRata|0805|0.47uF||
+4|Fitted|CAP, CERM, 0.22 uF, 50 V, +/- 10%, X7R, 0603|C4, C5, C6, C9, C10, C11, C12, C13|C1608X7R1H224K080AB|8|TDK|0603|0.22uF||
+5|Fitted|CAP, CERM, 1 uF, 16 V, +/- 10%, X7R, 0805|C7|EMK212B7105KG-T|1|Taiyo Yuden|0805|1uF||
+6|Fitted|CAP, CERM, 0.022 uF, 16 V, +/- 10%, X7R, 0603|C8|C0603C223K4RACTU|1|Kemet|0603|0.022uF||
+7|Fitted|CAP, CERM, 2.2 uF, 16 V, +/- 10%, X7R, 0805|C14|EMK212B7225KG-T|1|Taiyo Yuden|0805|2.2uF||
+8|Fitted|CAP, CERM, 100 pF, 50 V, +/- 5%, C0G/NP0, 0603|C16|C0603C101J5GACTU|1|Kemet|0603|100pF||
+9|Fitted|CAP, CERM, 0.1 uF, 50 V, +/- 10%, X7R, 0603|C17, C22|885012206095|2|Wurth Elektronik|0603|0.1uF||
+10|Fitted|CAP, CERM, 0.1 uF, 100 V,+/- 10%, X7R, AEC-Q200 Grade 1, 0603|C18, C19, C20, C21|GCJ188R72A104KA01D|4|MuRata|0603|0.1uF||
+11|Fitted|Diode, Schottky, 100 V, 0.15 A, SOD-123|D1, D2, D9|BAT46W-7-F|3|Diodes Inc.|SOD-123|100V||
+12|Fitted|LED, Red, SMD|D3|150060RS75000|1|Wurth Elektronik|LED_0603|Red||
+13|Fitted|Diode, Zener, 16 V, 500 mW, SOD-123|D4, D5, D6|MMSZ5246B-7-F|3|Diodes Inc.|SOD-123|16V||
+14|Fitted|Diode, Ultrafast, 100 V, 0.15 A, SOD-123|D7|1N4148W-7-F|1|Diodes Inc.|SOD-123|100V||
+15|Fitted|Diode, Zener, 10 V, 500 mW, SOD-123|D8|MMSZ4697T1G|1|ON Semiconductor|SOD-123|10V||
+16|Fitted|Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead|H1, H2, H3, H4|NY PMS 440 0025 PH|4|B&F Fastener Supply|Screw|||
+17|Fitted|Standoff, Hex, 0.5"L #4-40 Nylon|H5, H6, H7, H8|1902C|4|Keystone|Standoff|||
+18|Fitted|Terminal Block, 9 Pos, 3.5mm|H9|39500-0009|1|Molex||||
+19|Fitted|Header(Shrouded), 3.5mm, 9x1, R/A, TH|J1|39502-1009|1|Molex|Header(Shrouded), 3.5mm, 9x1, R/A, TH|||
+20|Fitted|Header (friction lock), 100mil, 4x1, R/A, TH|J2|22/05/3041|1|Molex|4x1 R/A Header|||
+21|Fitted|Header, 100mil, 2x1, Tin, TH|J3|PEC02SAAN|1|Sullins Connector Solutions|Header, 2 PIN, 100mil, Tin|||
+22|Fitted|TERM BLOCK 3.5MM VERT 4POS PCB|J4|OSTTE040161|1|On Shore Technology|HDR4|||
+23|Fitted|Transistor, NPN, 150 V, 1 A, AEC-Q101, SOT-89|Q1|FCX495TA|1|Diodes Inc.|SOT-89|150 V||
+24|Fitted|MOSFET, N-CH, 100 V, 17 A, DNK0008A (VSON-CLIP-8)|Q2, Q3|CSD19532Q5B|2|Texas Instruments|DNK0008A|100V|None|
+25|Fitted|MOSFET, N-CH, 60 V, 0.31 A, SOT-323|Q4|2N7002KW|1|Fairchild Semiconductor|SOT-323|60V|None|
+26|Fitted|MOSFET, N-CH, 100 V, 1.9 A, SOT-23|Q5|PMV213SN,215|1|Nexperia|SOT-23|100V|None|
+27|Fitted|RES, 100, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R1, R16, R17|CRCW0603100RJNEA|3|Vishay-Dale|0603|100||
+28|Fitted|RES, 20.0, 1%, 0.25 W, AEC-Q200 Grade 0, 1206|R2, R3, R5, R6, R7, R9, R10, R11|CRCW120620R0FKEA|8|Vishay-Dale|1206|20.0||
+29|Fitted|RES, 150, 5%, 1 W, AEC-Q200 Grade 0, 2512|R4|CRCW2512150RJNEG|1|Vishay-Dale|2512|150||
+30|Fitted|RES, 1.0 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R8, R12, R13|CRCW06031K00JNEA|3|Vishay-Dale|0603|1.0k||
+31|Fitted|RES, 10 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R14, R15, R18, R26|CRCW060310K0JNEA|4|Vishay-Dale|0603|10k||
+32|Fitted|RES, 0.001, 1%, 1 W, 1210|R19|PMR25HZPFV1L00|1|Rohm|1210|0.001||
+33|Fitted|RES, 3.9 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R20, R21|CRCW06033K90JNEA|2|Vishay-Dale|0603|3.9k||
+34|Fitted|RES, 10 M, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R22, R23, R24|CRCW060310M0JNEA|3|Vishay-Dale|0603|10Meg||
+35|Fitted|RES, 0, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R25|CRCW06030000Z0EA|1|Vishay-Dale|0603|0||
+36|Fitted|RES, 5.1 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R27, R28|CRCW06035K10JNEA|2|Vishay-Dale|0603|5.1k||
+37|Fitted|RES, 20 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R29|CRCW060320K0JNEA|1|Vishay-Dale|0603|20k||
+38|Fitted|RES, 5.1 k, 5%, 0.25 W, AEC-Q200 Grade 0, 1206|R30, R32, R33, R34, R35, R36|CRCW12065K10JNEA|6|Vishay-Dale|1206|5.1k||
+39|Fitted|RES, 7.50 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0603|R31|CRCW06037K50FKEA|1|Vishay-Dale|0603|7.50k||
+40|Fitted|Thermistor NTC, 10.0k ohm, 1%, Disc, 5x8.4 mm|RT1, RT2|103AT-2|2|SEMITEC Corporation|Disc, 5x8.4 mm|10k||
+41|Fitted|Shunt, 100mil, Gold plated, Black|SH-J1|SNT-100-BK-G|1|Samtec|Shunt|1x2|3M|969102-0000-DA
+42|Fitted|Test Point, Compact, Black, TH|TP13, TP14, TP15, TP16|5006|4|Keystone|Black Compact Testpoint|||
+43|Fitted|Multicell Battery Monitor and Protection Family, PFB0048A (TQFP-48)|U1|BQ76942PFBR|1|Texas Instruments|PFB0048A||Texas Instruments|BQ76942PFBT
+44|Fitted|Single-Channel ESD in 0402 Package With 10pF Capacitance and 6V Breakdown, DPY0002A (X1SON-2)|U2, U3||2|Texas Instruments|DPY0002A||Texas Instruments|TPD1E10B06DPYT
+45|Not Fitted|Fiducial mark.  There is nothing to buy or mount.|FID1, FID2, FID3, FID4, FID5, FID6|N/A|0|N/A|N/A|||
+46|Not Fitted|Test Point, Multipurpose, Red, TH|TP3|5010|0|Keystone|Red Multipurpose Testpoint|||
+47|Not Fitted|Test Point, Multipurpose, Black, TH|TP7|5011|0|Keystone|Black Multipurpose Testpoint|||
